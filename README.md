@@ -1,2 +1,4 @@
 # MMDLibrary
-Schematic library For Altium Library
+Schematic library for Altium Designer 
+
+
