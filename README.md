@@ -145,8 +145,7 @@ Simple, clean, and engineering-focused.
 
 ## 📄 License
 
-Choose any license (MIT recommended).  
-Provide `LICENSE` file in the repository.
+
 
 ---
 
