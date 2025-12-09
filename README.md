@@ -145,8 +145,8 @@ Simple, clean, and engineering-focused.
 
 ## 📄 License
 
-
-
+- Apache License  http://www.apache.org/licenses/
+- Copyright 2024 Mohamadkhosravi (https://github.com/Mohamadkhosravi)
 ---
 
 ## ✔ Additional Recommendations
