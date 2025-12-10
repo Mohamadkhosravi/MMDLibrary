@@ -1,4 +1,4 @@
-# Monoline — A Unified, Clean, Professional, Harmonized Schematic Library for Altium Designer
+# Mono Line Lib — A Unified, Clean, Professional, Harmonized Schematic Library for Altium Designer
 ### The Ultimate Minimal, Beautiful, Rule-Driven Electrical Symbol System
 
 Monoline is not “just another component library”.  
